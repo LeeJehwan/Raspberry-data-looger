@@ -3,5 +3,6 @@
 Data logger Module using Raspberry
 
 
-> ### source Tree
+> ### Directory structure
+
 <img src="./img/dir_tree.png" width=90%/>
